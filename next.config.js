@@ -25,6 +25,12 @@ const securityHeaders = [
 const nextConfig = {
   reactStrictMode: true,
   experimental: { esmExternals: true },
+  i18n: {
+    locales: ["default", "en", "zh"],
+    defaultLocale: "default",
+    localeDetection: false,
+  },
+  trailingSlash: true,
   host: "*",
   compress: isProd,
   poweredByHeader: false,
