@@ -20,7 +20,7 @@ export default function Header() {
         !top && "bg-gray-900 shadow-lg backdrop-blur-sm"
       }`}
     >
-      <div className="mx-auto max-w-6xl px-5 sm:px-6">
+      <div className="mx-auto max-w-7xl px-5 sm:px-6">
         <div className="flex h-16 items-center justify-between md:h-20">
           {/* Site branding */}
           <div className="mr-4 flex-shrink-0">
