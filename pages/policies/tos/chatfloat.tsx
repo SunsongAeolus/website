@@ -7,7 +7,7 @@ function TermsOfUse() {
     <>
       <Header />
       <main className="grid min-h-full place-items-center bg-gray-900 py-24 px-6 text-gray-400 sm:py-32 lg:px-8">
-        <div className="w-3/5 text-left">
+        <div className="lg:w-3/5 text-left">
           <h1 className="mt-4 text-3xl font-bold tracking-tight text-gray-300 sm:text-5xl">
             Terms of use
           </h1>
