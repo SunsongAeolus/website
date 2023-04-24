@@ -12,26 +12,19 @@ function TermsOfUse() {
             Terms of use
           </h1>
           <p className="mt-6 text-base leading-7 text-gray-600">
-            Updated on 2023-03-06
-          </p>
-          <p className="mt-6 text-base leading-7">
-            Thank you for using Chatfloat!
+            Updated on 2023-04-24
           </p>
 
           <p className="mt-6 text-base leading-7">
-            These Terms of Use apply when you use the products and services of
-            Bytefloat, Inc. or our affiliates, including our application
-            programming interface, software, tools, developer services, data,
-            documentation, and website (“Services”). The Terms include our
-            Service Terms, Sharing & Publication Policy, Usage Policies, and
-            other documentation, guidelines, or policies we may provide in
-            writing. By using our Services, you agree to these Terms. Our
-            Privacy Policy explains how we collect and use personal information.
+            Although all the clauses contained in this agreement are standard clauses about software products, it is advised that you read them entirely.
           </p>
 
           <p className="mt-6 text-base leading-7">
-            Chatfloat is developed by Bytefloat Inc. and owned and operated by
-            SunsongAeolus Culture Co., Ltd.
+            This End-User License Agreement ("EULA") constitutes an agreement between you and Sunsong Aeolus Culture Co., Ltd. (herein referred to as the "Owner") with regard to the <b>Chatfloat</b> application for Mobile Phones (herein referred to as "Software Product" or "Software"). By installing the Software, you are agreeing to be bound by the terms of this license agreement.
+          </p>
+
+          <p className="mt-6 text-base leading-7">
+            Your use of the Software (as specified below) is subject to the terms and conditions set forth in this EULA. If you do not accept the terms of this EULA, do not install or use the Software.
           </p>
 
           <h2 className="mt-6 font-bold tracking-tight text-gray-300">
