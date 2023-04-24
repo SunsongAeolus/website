@@ -17,11 +17,15 @@ function Support() {
           </p>
 
           <p className="mt-6 text-lg leading-7 underline">
-            <Link href="mailto:support@bytefloat.email"> support@bytefloat.email </Link>
+            <Link href="mailto:support@bytefloat.email">
+              {" "}
+              support@bytefloat.email{" "}
+            </Link>
           </p>
 
           <p className="mt-6 text-lg leading-7 ">
-            Our support services are available Monday through Friday, 10 a.m. to 5 p.m.
+            Our support services are available Monday through Friday, 10 a.m. to
+            5 p.m.
           </p>
         </div>
       </main>

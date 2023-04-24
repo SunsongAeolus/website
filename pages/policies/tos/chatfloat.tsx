@@ -7,7 +7,7 @@ function TermsOfUse() {
     <>
       <Header />
       <main className="grid min-h-full place-items-center bg-gray-900 py-24 px-6 text-gray-400 sm:py-32 lg:px-8">
-        <div className="lg:w-3/5 text-left">
+        <div className="text-left lg:w-3/5">
           <h1 className="mt-4 text-3xl font-bold tracking-tight text-gray-300 sm:text-5xl">
             Terms of use
           </h1>
@@ -16,15 +16,24 @@ function TermsOfUse() {
           </p>
 
           <p className="mt-6 text-base leading-7">
-            Although all the clauses contained in this agreement are standard clauses about software products, it is advised that you read them entirely.
+            Although all the clauses contained in this agreement are standard
+            clauses about software products, it is advised that you read them
+            entirely.
           </p>
 
           <p className="mt-6 text-base leading-7">
-            This End-User License Agreement ("EULA") constitutes an agreement between you and Sunsong Aeolus Culture Co., Ltd. (herein referred to as the "Owner") with regard to the <b>Chatfloat</b> application for Mobile Phones (herein referred to as "Software Product" or "Software"). By installing the Software, you are agreeing to be bound by the terms of this license agreement.
+            This End-User License Agreement (&quot;EULA&quot;) constitutes an agreement
+            between you and Sunsong Aeolus Culture Co., Ltd. (herein referred to
+            as the &quot;Owner&quot;) with regard to the <b>Chatfloat</b> application for
+            Mobile Phones (herein referred to as &quot;Software Product&quot; or
+            &quot;Software&quot;). By installing the Software, you are agreeing to be
+            bound by the terms of this license agreement.
           </p>
 
           <p className="mt-6 text-base leading-7">
-            Your use of the Software (as specified below) is subject to the terms and conditions set forth in this EULA. If you do not accept the terms of this EULA, do not install or use the Software.
+            Your use of the Software (as specified below) is subject to the
+            terms and conditions set forth in this EULA. If you do not accept
+            the terms of this EULA, do not install or use the Software.
           </p>
 
           <h2 className="mt-6 font-bold tracking-tight text-gray-300">
