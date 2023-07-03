@@ -31,8 +31,14 @@ export default function Footer() {
             </a>
           </div>
           <p className="mt-6 text-sm text-slate-500 sm:mt-0">
-            Copyright © 2023 Sunsong Aeolus Culture Co., Ltd. All rights
-            reserved.{" "}
+            Copyright © 2023 长沙朝歌风伯文化有限公司 All rights reserved.{" "}
+            <br />
+            <Link
+              href="https://beian.miit.gov.cn/"
+              className="text-sm text-slate-700"
+            >
+              湘ICP备2023004322号
+            </Link>
           </p>
         </div>
       </div>
