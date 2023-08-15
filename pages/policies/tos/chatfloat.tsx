@@ -22,12 +22,13 @@ function TermsOfUse() {
           </p>
 
           <p className="mt-6 text-base leading-7">
-            This End-User License Agreement (&quot;EULA&quot;) constitutes an agreement
-            between you and Sunsong Aeolus Culture Co., Ltd. (herein referred to
-            as the &quot;Owner&quot;) with regard to the <b>Chatfloat</b> application for
-            Mobile Phones (herein referred to as &quot;Software Product&quot; or
-            &quot;Software&quot;). By installing the Software, you are agreeing to be
-            bound by the terms of this license agreement.
+            This End-User License Agreement (&quot;EULA&quot;) constitutes an
+            agreement between you and Sunsong Aeolus Culture Co., Ltd. (herein
+            referred to as the &quot;Owner&quot;) with regard to the{" "}
+            <b>Chatfloat</b> application for Mobile Phones (herein referred to
+            as &quot;Software Product&quot; or &quot;Software&quot;). By
+            installing the Software, you are agreeing to be bound by the terms
+            of this license agreement.
           </p>
 
           <p className="mt-6 text-base leading-7">
