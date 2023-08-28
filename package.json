@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@headlessui/react": "^1.7.10",
-    "@headlessui/tailwindcss": "^0.1.2",
+    "@headlessui/tailwindcss": "^0.2.0",
     "@heroicons/react": "^2.0.18",
     "@types/node": "18.11.19",
     "@types/react": "18.0.27",
