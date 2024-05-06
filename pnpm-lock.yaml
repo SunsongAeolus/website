@@ -13,10 +13,10 @@ dependencies:
     version: 1.6.8
   framer-motion:
     specifier: ^10.18.0
-    version: 10.18.0(react-dom@18.2.0)(react@18.3.1)
+    version: 10.18.0(react-dom@18.3.1)(react@18.3.1)
   next:
     specifier: 13.5.6
-    version: 13.5.6(@babel/core@7.22.11)(react-dom@18.2.0)(react@18.3.1)
+    version: 13.5.6(@babel/core@7.22.11)(react-dom@18.3.1)(react@18.3.1)
   next-remove-imports:
     specifier: ^1.0.12
     version: 1.0.12(webpack@5.88.2)
@@ -24,13 +24,13 @@ dependencies:
     specifier: 18.3.1
     version: 18.3.1
   react-dom:
-    specifier: 18.2.0
-    version: 18.2.0(react@18.3.1)
+    specifier: 18.3.1
+    version: 18.3.1(react@18.3.1)
 
 devDependencies:
   '@headlessui/react':
     specifier: ^1.7.19
-    version: 1.7.19(react-dom@18.2.0)(react@18.3.1)
+    version: 1.7.19(react-dom@18.3.1)(react@18.3.1)
   '@headlessui/tailwindcss':
     specifier: ^0.2.0
     version: 0.2.0(tailwindcss@3.4.3)
@@ -44,8 +44,8 @@ devDependencies:
     specifier: 18.3.1
     version: 18.3.1
   '@types/react-dom':
-    specifier: 18.2.25
-    version: 18.2.25
+    specifier: 18.3.0
+    version: 18.3.0
   autoprefixer:
     specifier: ^10.4.19
     version: 10.4.19(postcss@8.4.38)
@@ -340,17 +340,17 @@ packages:
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
     dev: true
 
-  /@headlessui/react@1.7.19(react-dom@18.2.0)(react@18.3.1):
+  /@headlessui/react@1.7.19(react-dom@18.3.1)(react@18.3.1):
     resolution: {integrity: sha512-Ll+8q3OlMJfJbAKM/+/Y2q6PPYbryqNTXDbryx7SXLIDamkF6iQFbriYHga0dY44PvDhvvBWCx1Xj4U5+G4hOw==}
     engines: {node: '>=10'}
     peerDependencies:
       react: ^16 || ^17 || ^18
       react-dom: ^16 || ^17 || ^18
     dependencies:
-      '@tanstack/react-virtual': 3.0.1(react-dom@18.2.0)(react@18.3.1)
+      '@tanstack/react-virtual': 3.0.1(react-dom@18.3.1)(react@18.3.1)
       client-only: 0.0.1
       react: 18.3.1
-      react-dom: 18.2.0(react@18.3.1)
+      react-dom: 18.3.1(react@18.3.1)
     dev: true
 
   /@headlessui/tailwindcss@0.2.0(tailwindcss@3.4.3):
@@ -564,7 +564,7 @@ packages:
       tslib: 2.5.0
     dev: false
 
-  /@tanstack/react-virtual@3.0.1(react-dom@18.2.0)(react@18.3.1):
+  /@tanstack/react-virtual@3.0.1(react-dom@18.3.1)(react@18.3.1):
     resolution: {integrity: sha512-IFOFuRUTaiM/yibty9qQ9BfycQnYXIDHGP2+cU+0LrFFGNhVxCXSQnaY6wkX8uJVteFEBjUondX0Hmpp7TNcag==}
     peerDependencies:
       react: ^16.8.0 || ^17.0.0 || ^18.0.0
@@ -572,7 +572,7 @@ packages:
     dependencies:
       '@tanstack/virtual-core': 3.0.0
       react: 18.3.1
-      react-dom: 18.2.0(react@18.3.1)
+      react-dom: 18.3.1(react@18.3.1)
     dev: true
 
   /@tanstack/virtual-core@3.0.0:
@@ -612,8 +612,8 @@ packages:
     resolution: {integrity: sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==}
     dev: true
 
-  /@types/react-dom@18.2.25:
-    resolution: {integrity: sha512-o/V48vf4MQh7juIKZU2QGDfli6p1+OOi5oXx36Hffpc9adsHeXjVp8rHuPkjd8VT8sOJ2Zp05HR7CdpGTIUFUA==}
+  /@types/react-dom@18.3.0:
+    resolution: {integrity: sha512-EhwApuTmMBmXuFOikhQLIBUn6uFg81SwLMOAUgodJF14SOBOCMdU04gDoYi0WOJJHD144TL32z4yDqCW3dnkQg==}
     dependencies:
       '@types/react': 18.3.1
     dev: true
@@ -702,7 +702,7 @@ packages:
       react:
         optional: true
     dependencies:
-      next: 13.5.6(@babel/core@7.22.11)(react-dom@18.2.0)(react@18.3.1)
+      next: 13.5.6(@babel/core@7.22.11)(react-dom@18.3.1)(react@18.3.1)
       react: 18.3.1
       server-only: 0.0.1
     dev: false
@@ -1899,7 +1899,7 @@ packages:
     resolution: {integrity: sha512-ZsDfxO51wGAXREY55a7la9LScWpwv9RxIrYABrlvOFBlH/ShPnrtsXeuUIfXKKOVicNxQ+o8JTbJvjS4M89yew==}
     dev: true
 
-  /framer-motion@10.18.0(react-dom@18.2.0)(react@18.3.1):
+  /framer-motion@10.18.0(react-dom@18.3.1)(react@18.3.1):
     resolution: {integrity: sha512-oGlDh1Q1XqYPksuTD/usb0I70hq95OUzmL9+6Zd+Hs4XV0oaISBa/UUMSjYiq6m8EUF32132mOJ8xVZS+I0S6w==}
     peerDependencies:
       react: ^18.0.0
@@ -1911,7 +1911,7 @@ packages:
         optional: true
     dependencies:
       react: 18.3.1
-      react-dom: 18.2.0(react@18.3.1)
+      react-dom: 18.3.1(react@18.3.1)
       tslib: 2.5.0
     optionalDependencies:
       '@emotion/is-prop-valid': 0.8.8
@@ -2581,7 +2581,7 @@ packages:
       - webpack
     dev: false
 
-  /next@13.5.6(@babel/core@7.22.11)(react-dom@18.2.0)(react@18.3.1):
+  /next@13.5.6(@babel/core@7.22.11)(react-dom@18.3.1)(react@18.3.1):
     resolution: {integrity: sha512-Y2wTcTbO4WwEsVb4A8VSnOsG1I9ok+h74q0ZdxkwM3EODqrs4pasq7O0iUxbcS9VtWMicG7f3+HAj0r1+NtKSw==}
     engines: {node: '>=16.14.0'}
     hasBin: true
@@ -2602,7 +2602,7 @@ packages:
       caniuse-lite: 1.0.30001539
       postcss: 8.4.31
       react: 18.3.1
-      react-dom: 18.2.0(react@18.3.1)
+      react-dom: 18.3.1(react@18.3.1)
       styled-jsx: 5.1.1(@babel/core@7.22.11)(react@18.3.1)
       watchpack: 2.4.0
     optionalDependencies:
@@ -2997,14 +2997,14 @@ packages:
       safe-buffer: 5.2.1
     dev: false
 
-  /react-dom@18.2.0(react@18.3.1):
-    resolution: {integrity: sha512-6IMTriUmvsjHUjNtEDudZfuDQUoWXVxKHhlEGSk81n4YFS+r/Kl99wXiwlVXtPBtJenozv2P+hxDsw9eA7Xo6g==}
+  /react-dom@18.3.1(react@18.3.1):
+    resolution: {integrity: sha512-5m4nQKp+rZRb09LNH59GM4BxTh9251/ylbKIbpe7TpGxfJ+9kv6BLkLBXIjjspbgbnIBNqlI23tRnTWT0snUIw==}
     peerDependencies:
-      react: ^18.2.0
+      react: ^18.3.1
     dependencies:
       loose-envify: 1.4.0
       react: 18.3.1
-      scheduler: 0.23.0
+      scheduler: 0.23.2
 
   /react-is@16.13.1:
     resolution: {integrity: sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==}
@@ -3122,8 +3122,8 @@ packages:
       is-regex: 1.1.4
     dev: true
 
-  /scheduler@0.23.0:
-    resolution: {integrity: sha512-CtuThmgHNg7zIZWAXi3AsyIzA3n4xx7aNyjwC2VJldO2LMVDhFK+63xGqq6CsJH4rTAt6/M+N4GhZiDYPx9eUw==}
+  /scheduler@0.23.2:
+    resolution: {integrity: sha512-UOShsPwz7NrMUqhR6t0hWjFduvOzbtv7toDH1/hIrfRNIDBnnBWd0CwJTGvTpngVlmwGCdP9/Zl/tVrDqcuYzQ==}
     dependencies:
       loose-envify: 1.4.0
 
