@@ -17,9 +17,9 @@ function Support() {
           </p>
 
           <p className="mt-6 text-lg leading-7 underline">
-            <Link href="mailto:support@bytefloat.email">
+            <Link href="mailto:support@sunsongaeolus.com">
               {" "}
-              support@bytefloat.email{" "}
+              support@sunsongaeolus.com{" "}
             </Link>
           </p>
 
